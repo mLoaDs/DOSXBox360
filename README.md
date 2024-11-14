@@ -3,10 +3,6 @@
 # DOSXBox360
 is a native port of DOSBox for the Xbox 360 by Lantus 
 
-DOSBox360 Browser by begal
-
-https://github.com/mLoaDs/DOSXBox360Browser
-
 DOSXBox is an emulator which emulates an IBM PC compatible computer running MS-DOS.
 It is intended especially for use with old PC games. DOSBox is free software.
 
@@ -32,6 +28,12 @@ DOSBox.xex - if you are running a retail (JTAG) console. Use this version.
 DOSBox-Dev.xex - if you have access to a devkit, this version will replace the analog stick mouse with real mouse support. Plug in a mouse into any USB port.
 
 Note - you cannot run DOSBox-Dev.xex on a retail console.
+
+Special
+-------
+DOSBox360 Browser by begal
+
+https://github.com/mLoaDs/DOSXBox360Browser
 
 Notes
 -----
