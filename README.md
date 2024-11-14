@@ -8,8 +8,13 @@ It is intended especially for use with old PC games. DOSBox is free software.
 
 DOSBox is a command-line program, configured either by a set of command-line arguments or by editing a plain text configuration file. For ease of use, several graphical front-ends have been developed by the user community.
 
-
 DOSBox is a full CPU emulator, capable of running DOS programs that require the CPU to be in either real mode or protected mode. Other similar programs, such as dosemu or VDMs for Windows and OS/2, provide compatibility layers and rely on virtualization capabilities of the 386 family processors. Since DOSBox can emulate its CPU by interpretation, it is independent of its host CPU. However, on systems which provide the i386 instruction set, the option to use dynamic instruction translation is available in DOSBox. Though this setting is less accurate and reliable, it is faster than interpretive CPU emulation.
+
+Special
+-------
+DOSXBox360 Browser by begal
+
+https://github.com/mLoaDs/DOSXBox360Browser
 
 Features
 --------
@@ -28,12 +33,6 @@ DOSBox.xex - if you are running a retail (JTAG) console. Use this version.
 DOSBox-Dev.xex - if you have access to a devkit, this version will replace the analog stick mouse with real mouse support. Plug in a mouse into any USB port.
 
 Note - you cannot run DOSBox-Dev.xex on a retail console.
-
-Special
--------
-DOSXBox360 Browser by begal
-
-https://github.com/mLoaDs/DOSXBox360Browser
 
 Notes
 -----
