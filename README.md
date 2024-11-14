@@ -31,7 +31,7 @@ Note - you cannot run DOSBox-Dev.xex on a retail console.
 
 Special
 -------
-DOSBox360 Browser by begal
+DOSXBox360 Browser by begal
 
 https://github.com/mLoaDs/DOSXBox360Browser
 
