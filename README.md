@@ -3,6 +3,10 @@
 # DOSXBox360
 is a native port of DOSBox for the Xbox 360 by Lantus 
 
+DOSBox360 Browser by begal
+
+https://github.com/mLoaDs/DOSXBox360Browser
+
 DOSXBox is an emulator which emulates an IBM PC compatible computer running MS-DOS.
 It is intended especially for use with old PC games. DOSBox is free software.
 
